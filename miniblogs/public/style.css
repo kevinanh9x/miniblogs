@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(248, 249, 250) !important;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.home-left{
+    background-color: white;
+    padding: 10px;
+}
+
+.home-right > div > div{
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.home-right > div > div > img{
+    margin-right: 10px;
+}
+
+.text-home{
+    margin-bottom: 10px;
+}
+
+.text-home:hover{
+    box-shadow: 10px 5px 5px burlywood;
+}
+
+.mt-20{
+    margin-top: 20px;
+}
+
+.img-circle{
+    border-radius: 100%;
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+b{
+    font-size: 12px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.hr {
+    border-top: 3px solid whitesmoke;
+    width: 50%;
+    margin-bottom: 5px;
+}
+
+.flex-pd{
+    padding: 0px !important;
+}
+
+.flex-pd > li{
+    margin-right: 20px;
+    font-size: 28px;
+    color: rgb(164, 164, 164);
+}
+
+.contact{
+    background-color: white;
+    margin-left: 10px;
+}
+
+.about{
+    background-color: white;
+    padding: 20px;
+}
